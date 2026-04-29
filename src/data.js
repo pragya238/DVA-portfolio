@@ -7,7 +7,7 @@ const projects = [
     image: `${base}healthops_analytics.png`,
     tags: ["Tableau", "Healthcare", "Data Analytics"],
     github: "https://github.com/pragya238/SectionB_G11_HealthOps_Analytics",
-    live: "https://public.tableau.com/app/profile/pragya.kashyap7848/vizzes"
+    live: "https://public.tableau.com/app/profile/pragya.kashyap7848/viz/HospitalAnalysis_17774535485210/ExecutiveOverview"
   },
   {
     name: "Women Violence Dashboard",
